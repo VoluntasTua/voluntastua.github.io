@@ -29,7 +29,8 @@ twitter_username: tuavoluntas
 github_username: voluntastua
 
 # Build settings
-theme: hitchens-theme
+# theme: hitchens-theme
+# hide_credits: true
 plugins:
   - jekyll-feed
 # Exclude from processing.
@@ -51,4 +52,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-hide_credits: true
