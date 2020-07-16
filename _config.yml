@@ -29,6 +29,7 @@ twitter_username: tuavoluntas
 github_username: voluntastua
 
 # Build settings
+theme: jekyll-theme-merlot
 # theme: hitchens-theme
 # hide_credits: true
 plugins:
